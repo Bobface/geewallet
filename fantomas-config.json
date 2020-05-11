@@ -1,0 +1,22 @@
+{
+  "IndentSpaceNum":4,
+  "PageWidth":80,
+  "SemicolonAtEndOfLine":false,
+  "SpaceBeforeParameter":true,
+  "SpaceBeforeLowercaseInvocation":true,
+  "SpaceBeforeUppercaseInvocation":true,
+  "SpaceBeforeClassConstructor":true,
+  "SpaceBeforeMember":true,
+  "SpaceBeforeColon":false,
+  "SpaceAfterComma":true,
+  "SpaceBeforeSemicolon":false,
+  "SpaceAfterSemicolon":true,
+  "IndentOnTryWith":true,
+  "SpaceAroundDelimiter":true,
+  "MaxIfThenElseShortWidth":0,
+  "MaxRecordWidth":0,
+  "MultilineBlockBracketsOnSameColumn":true,
+  "NewlineBetweenTypeDefinitionAndMembers":true,
+  "KeepIfThenInSameLine":true,
+  "StrictMode":false
+}
